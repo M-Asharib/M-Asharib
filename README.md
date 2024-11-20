@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [Webberners.com](Webberners.com)
+- 👨‍💻 All of my projects are available at [Webberners.com](https://Webberners.com)
 
 - 📫 How to reach me **asharibmuhammed2@gmail.com**
 
