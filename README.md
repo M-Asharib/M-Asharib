@@ -4,7 +4,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 - 🔭 I’m currently working on [Pay Kar ERP System](https://www.pay-kar.com/)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [Webberners.com](https://www.Webberners.com)
 
